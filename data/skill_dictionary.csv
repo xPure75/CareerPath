@@ -1,0 +1,22 @@
+skill,category,aliases
+SQL,Programming,T-SQL;Structured Query Language
+Python,Programming,Python3;Python 3
+R,Programming,R language;RStudio
+Java,Programming,
+Excel,BI & Visualization,MS Excel;Microsoft Excel
+Tableau,BI & Visualization,
+Power BI,BI & Visualization,PowerBI;Power-BI;Microsoft Power BI
+Data Visualization,BI & Visualization,Data Visualisation;Data Viz
+Statistics,Analytics,Statistical Analysis
+Machine Learning,Analytics,ML
+TensorFlow,Analytics,
+AWS,Cloud,Amazon Web Services
+Azure,Cloud,Microsoft Azure
+Spark,Data Engineering,Apache Spark;PySpark
+ETL,Data Engineering,ETL pipelines;ETL pipeline
+PostgreSQL,Databases,Postgres;Postgre SQL
+Docker,DevOps,
+Git,DevOps,GitHub;GitLab
+Agile,Methods,Scrum
+Project Management,Methods,
+Communication,Soft Skills,Communication Skills;Written Communication;Verbal Communication
